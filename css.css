@@ -1,0 +1,38 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.conteiner{
+    height: 1290px;
+    width: 870px;
+    background-color: white;
+    margin-left: 550px;
+    border-radius: 35px;
+}
+
+.omelete{
+    margin-left: 110px;
+    margin-top: 50px;
+    height: 350px;
+    width: 660px;
+    border-radius: 20px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+
+.titulo{
+    margin-left: 120px;
+    font-size: 30px;
+    font-family: Young Serif;
+}
+
+.parag{
+    margin-left: 90px;
+
+}
+
+.prep{
+    background-color:var(--Rose-800)
+}
